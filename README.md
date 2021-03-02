@@ -59,9 +59,9 @@ Before you begin, connect the following pairs of pins together on the EEPROM:
 |     A0     |      10      |      11      |     D0     |
 |     A1     |       9      |      12      |     D1     |
 |     A2     |       8      |      13      |     D2     |
-|     A3     |       7      |      14      |     D3     |
-|     A4     |       6      |      15      |     D4     |
-|     A5     |       5      |      16      |     D5     |
+|     A3     |       7      |      15      |     D3     |
+|     A4     |       6      |      16      |     D4     |
+|     A5     |       5      |      17      |     D5     |
 
 Then make the following connections between the Nano and the EEPROM - better done with the power off:
 
