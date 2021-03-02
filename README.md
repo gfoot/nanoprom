@@ -3,6 +3,10 @@ NanoPROM - DIP-EEPROM Programmer for Arduino Nano
 
 Writes ROM images to parallel-interface EEPROMs via XMODEM file transfer over USB.
 
+| <img src="doc/nanoprom_photo.jpg" alt="Arduino Nano connected to EEPROM" width="320" height="180" border="10" /> | | <img src="doc/terminal_screenshot.jpg" alt="Screenshot of terminal before programming EEPROM" width="320" height="180" border="10" /> |
+|:----:|----|:----:|
+| Nano connected to EEPROM | | Terminal screenshot |
+
 In particular compared to other similar programmers, this one works without requiring 
 any additional components - just the Nano and the EEPROM, wired together correctly.
 
